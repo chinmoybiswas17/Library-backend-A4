@@ -58,7 +58,3 @@ npm run dev
 
 - POST /api/borrow
 - GET /api/borrow
-
-## Postman Documentation
-
-[Postman Documentation](https://documenter.getpostman.com/view/30562539/2sB2xBEVzG)
