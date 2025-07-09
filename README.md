@@ -1,6 +1,6 @@
 # Library Management System
 
-A modern , scalable library management system. 
+A modern , scalable library management system.
 
 ## Tech Stack
 
@@ -16,24 +16,28 @@ A modern , scalable library management system.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/Nahid-Mahmud/library-management-b5a3.git
+git clone https://github.com/chinmoybiswas17/Library-backend-A4.git
 ```
+
 2. Navigate to the project directory
 
 ```bash
-cd library-management-b5a3
+cd Library-backend-A4
 ```
+
 3. Install dependencies
 
 ```bash
 npm install
 ```
+
 4. Create a .env file in the root directory and add the following variables
 
 ```bash
 PORT=5000
 MONGO_URI=your_mongodb_uri
 ```
+
 5. Run the server
 
 ```bash
@@ -54,7 +58,6 @@ npm run dev
 
 - POST /api/borrow
 - GET /api/borrow
-
 
 ## Postman Documentation
 
