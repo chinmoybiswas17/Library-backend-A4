@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nahid-Mahmud/library-management-b5a3.git"
+    "url": "git+https://github.com/chinmoybiswas17/lb-fronend-B5A4.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Nahid-Mahmud/library-management-b5a3/issues"
+    "url": "https://github.com/chinmoybiswas17/lb-fronend-B5A4/issues"
   },
-  "homepage": "https://github.com/Nahid-Mahmud/library-management-b5a3#readme",
+  "homepage": "https://github.com/chinmoybiswas17/lb-fronend-B5A4/#readme",
   "dependencies": {
     "dotenv": "^16.6.1",
     "express": "^5.1.0",
