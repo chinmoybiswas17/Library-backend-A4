@@ -1,4 +1,4 @@
-# Library Management System
+# Library Management System-Server
 
 A modern , scalable library management system.
 
